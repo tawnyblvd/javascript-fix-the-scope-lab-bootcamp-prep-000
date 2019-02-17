@@ -29,4 +29,4 @@ var funkyFunction = function() {
 function theFunk() {
   return(funkyFunction());
 }
-var theFunk = theFunk;
+theFunk();
