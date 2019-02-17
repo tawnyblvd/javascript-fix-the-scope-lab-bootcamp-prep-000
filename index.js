@@ -34,4 +34,4 @@ funkyFunction = function() {
     return "FUNKY!";
   }
 }
-funkyFunction() = theFunk;
+var theFunk = funkyFunction();
