@@ -28,3 +28,4 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 console.log(funkyFunction);
 var theFunk = funkyFunction;
+console.log(theFunk);
